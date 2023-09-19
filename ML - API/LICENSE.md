@@ -5,7 +5,7 @@
 
 ## Definiciones
 
-- **Software:** Refiere al software y cualquier material asociado proporcionado con esta licencia.
+- **Software:** Refiere al código del modelo de machine learning.
 - **Titular de Derechos:** Se refiere a Martín Angel Varela, el titular de los derechos de propiedad intelectual del Software.
 
 ## Concesión de derechos
